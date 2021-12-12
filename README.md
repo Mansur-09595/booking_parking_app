@@ -1,6 +1,12 @@
-## CRM пользователей
+## CRM PARKING
 
 ### Запуск
+
+https://parkingbookingapp.herokuapp.com/
+
+login: admin
+
+password: admin
 
 #### Установка зависимостей 
 
@@ -22,11 +28,9 @@ admin/                              -Доступ к администрации 
 
 users/register/                     -Регистрация пользователя
 
-add_post/                           -Добавить пользователя
+add_post/                           -Добавить парковку
 
-add_language/                       -Добавить язык
-
-add_category/                       -Добавить отдел
+add_category/                       -Добавить парковчное место
 
 ### Документация API(ссылки):
 
